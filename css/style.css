@@ -1,0 +1,61 @@
+.jumbotron{
+  background-color: #26c6da;
+  color:#424242;
+}
+
+#btn{
+  background-color: #26c6da;
+  color:#424242;
+  padding: 15px 25px;
+  border:none;
+  font-weight: bold;
+}
+.well{
+  background-color:#26c6da;
+}
+#person1roll{
+  border:none;
+  padding:15px 25px;
+  background-color:#689F38;
+  color:#424242;
+}
+#person1hold{
+  border:none;
+  padding:15px 25px;
+  background-color:#689F38;
+  color:#424242;
+  margin-left:80px;
+  margin-right: 40px;
+}
+#person2roll{
+  border:none;
+  padding:15px 25px;
+  background-color:#689F38;
+  color:#424242;
+}
+#person2hold{
+  border:none;
+  padding:15px 25px;
+  background-color:#689F38;
+  color:#424242;
+  margin-left:80px;
+  margin-right: 40px;
+}
+.container-2{
+   display: none;
+}
+b{
+  font-size: 18px;
+  font-weight: bold;
+}
+body{
+  background-image: url(../img/black.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  opacity: 0.7;
+  filter: alpha(opacity=60);
+}
+.col-md-2{
+  text-align: center;
+}
